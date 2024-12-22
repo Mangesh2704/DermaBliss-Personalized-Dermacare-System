@@ -53,7 +53,7 @@ By providing personalized skincare recommendations and expert advice, **DermaBli
 
 ### 2.1 System Design
 
-![Block Diagram of DermaBliss Application](dermablissblock.png)
+![Block Diagram of DermaBliss Application](dermabliss-block.png)
 
 ### 2.2 Hardware and Software Requirements
 
